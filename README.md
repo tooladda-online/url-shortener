@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔗 URL Shortener
+# 📊 URL Shortener
 
 ### Use URL Shortener free on ToolAdda — quick, accurate, and browser-based.
 
